@@ -1,11 +1,15 @@
 
 # Matchmaker AI - Resume Screening Tool
 
-![Matchmaker AI Logo](static/logo.jpeg)
+![Matchmaker AI Logo](https://raw.githubusercontent.com/sdarmaraj83/matchmakerAI/main/static/logo.jpeg)
 
 Matchmaker AI is an intelligent resume screening application that helps recruiters and hiring managers quickly evaluate candidate resumes against job descriptions using natural language processing and machine learning techniques.
 
-![App UI Screenshot](static/ui_screenshot.png)
+![App UI Screenshot](https://raw.githubusercontent.com/sdarmaraj83/matchmakerAI/main/static/ui_screenshot.png)
+
+
+
+
 
 ---
 
